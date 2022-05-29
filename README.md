@@ -3,11 +3,10 @@
 <h2>👨‍💻 Current Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Diretory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Diretory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Diretory Home Lab](https://github.com/Resotoj/ActiveDirectoryLab)
+  - [Server 2019 and Windows 10 on VirtualBox](https://github.com/joshmadakor1/Algorithms-Practice)
   - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- 
 
 <h2>👨‍💻 Current Projects:</h2>
 
